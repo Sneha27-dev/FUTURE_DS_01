@@ -40,5 +40,5 @@ top-selling products, category performance, and regional sales using Power BI.
 - Sample - Superstore.csv
 
 ## Author
-Sneha 
-Data Science & Analytics Intern – Future Interns
+- Sneha 
+- Data Science & Analytics Intern – Future Interns
